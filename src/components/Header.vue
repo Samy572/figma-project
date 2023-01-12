@@ -47,7 +47,7 @@ header {
   top: 0%;
   left: 100%;
   min-height: 100vh;
-  background-color: rgb(32, 31, 31);
+  background-color: #5E3AEE;
   width: 100vw;
   transition: 0.3s;
 }
