@@ -57,6 +57,7 @@ const counter = ref([[
     border-top: 3px solid #BFB8B8;
     padding: 10px 0;
     height:224px;
+    margin-bottom: 50px;
     p{
         font-size: 8px;
         color: #BFB8B8;
@@ -67,6 +68,7 @@ const counter = ref([[
     width: 100%;
     background-color: #BFB8B8;
     height: 3px;
+    
 }
 
 </style>
